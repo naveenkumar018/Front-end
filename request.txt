@@ -1,0 +1,18 @@
+{
+"loginid":"naveenkumar018",
+"password":"naveenk17",
+"application id":"5678",
+"ipaddress":"176.120.2.44"
+}
+{
+"actions":[
+{
+"actionId":"1234",
+"actionuserid":"naveenkumar018",
+"expiry":"26/07/2020",
+"name":"prevent login",
+"reason":"secure lock",
+"reasoncode":"secure_lock"
+}
+]
+}
